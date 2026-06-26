@@ -3,7 +3,7 @@ main = "src/index.ts"
 compatibility_date = "2023-06-10"
 
 # Replace this with your Cloudflare account ID
-account_id = "d458dbe698b8eef41837f941d73bc5b3"
+account_id = "8017f90508f621c85ce03ff39b9eb53a"
 
 [[d1_databases]]
 binding = "DB"
